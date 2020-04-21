@@ -26,6 +26,10 @@
   color: white;
 }
 
+.columnsthree {
+  column-count: 3;
+}
+
 body {
     margin: 60px auto;
     width: 70%;
