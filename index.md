@@ -1,15 +1,7 @@
-<!DOCTYPE HTML>
-<HTML>
-    <HEAD>
-      <TITLE> Jennifer Mattschey</TITLE>
-      <STYLE> 
-        .TextWrap {
-                 float: right;
-                 margin: 10px;
-        }
-        </HEAD>
+<link rel="stylesheet" type="text/css" href="style.css">
 
-<img src="profile.jpg" CLASS="TextWrap"> 
+
+<img src="profile.jpg" CLASS="TextWrapLeft"> 
 
 <p>
   <h1> Jennifer Mattschey </h1>
