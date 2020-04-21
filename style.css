@@ -1,9 +1,11 @@
 .TextWrapRight {
 	float: right;
 	margin: 10px;
+	width: 250px;
 	}
 
 .TextWrapLeft {
 	float: right;
 	margin: 10px;
+	width: 250px;
 	}
