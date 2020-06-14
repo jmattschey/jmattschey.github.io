@@ -3,8 +3,8 @@
 }
 
 .header, .footer {
-  background-color: white;
-  color: #E75480;
+  background-color: #E75480;
+  color: white;
   padding: 15px;
   border-color: #E75480;
   text-align: right;
@@ -22,7 +22,7 @@
   display: table;
 }
 
-.menu {
+.twitter {
   width: 25%;
 }
 
