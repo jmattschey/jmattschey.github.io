@@ -24,8 +24,7 @@
 
 .twitter {
   width: 25%;
-  display: block;
-
+  float: right;
 }
 
 .content {
