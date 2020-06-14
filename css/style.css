@@ -5,6 +5,7 @@
 .header, .footer {
   background-color: #180348;
   color: #FFFFFF;
+  padding:15px;
   border-color: #E75480;
   text-align: center;
 
