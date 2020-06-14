@@ -32,7 +32,7 @@
 
 body {
     margin: 60px auto;
-    width: 90%;
+    width: 80%;
 }
 
 a {
@@ -49,8 +49,7 @@ p {
     font-size: 1.2em;
     line-height: 1.2em;
     color: #000000;
-  column-span: all;
-
+    column-span: all;
 }
 
 ul.posts { 
