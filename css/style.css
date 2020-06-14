@@ -23,7 +23,7 @@
 }
 
 .twitter {
-  width: 25%;
+  column-span: 4
   float: right;
   display:inline;
 }
