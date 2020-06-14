@@ -46,17 +46,7 @@ a:hover {
     text-decoration: underline;
 }
 
-a:link {
-  color:  #180348;
-  background-color: transparent;
-  text-decoration: none;
-}
 
-a:visited {
-  color:  #180348;
-  background-color: transparent;
-  text-decoration: none;
-}
 
 p {
     font-size: 1.2em;
