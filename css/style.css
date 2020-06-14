@@ -18,6 +18,7 @@
   clear: both;
   display: table;
 }
+
 .twitter {
   width: 25%;
   float: right;
@@ -31,7 +32,7 @@
 
 }
 .content2 {
-  width: 75%;
+  width: 70%;
   padding: 60px;
   padding: 20px;
   float: left;
