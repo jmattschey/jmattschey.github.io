@@ -25,6 +25,7 @@
 .twitter {
   width: 25%;
   float: right;
+  display:inline;
 }
 
 .content {
