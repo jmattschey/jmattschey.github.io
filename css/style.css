@@ -29,8 +29,8 @@
 }
 
 .content1 {
-  width: 75%;
   padding: 20px;
+  column-span: 8
 
 }
 
