@@ -31,10 +31,10 @@
 .content1 {
   padding: 20px;
   column-span: 8
-
 }
 
 .imgright {
   style="float:right";
   padding: 10px;
+  column-span: 3
 }
